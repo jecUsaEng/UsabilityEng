@@ -1,0 +1,15 @@
+1.
+
+Bei unserer Anwendung handelt es sich um einen Messenger-Dienst, bei dem der Nutzer Nachrichten senden und empfangen kann. Zu Beginn hat der Besucher der Anwendung die Möglichkeit sich anzumelden oder sich zu registrieren, falls noch kein Benutzeraccount besteht.
+
+
+2.
+
+
+
+
+3.
+
+
+
+
